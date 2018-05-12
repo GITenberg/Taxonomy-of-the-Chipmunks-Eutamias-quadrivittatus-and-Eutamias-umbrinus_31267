@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34659'
     url: http://www.gutenberg.org/2009/agents/34659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31267#Taxonomy-of-the-Chipmunks-Eutamias-quadrivittatus-and-Eutamias-umbrinus
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
